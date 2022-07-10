@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788720660371",
+    "project_id": "fir-cast-v1",
+    "storage_bucket": "fir-cast-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788720660371:android:e5a4ea11ce122d3bb34266",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788720660371-6v98vqom12aj0182pbsbhnepuu4n6d17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0XvuCeDIlg3S7hBrM2MJmsRXjLzXBns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788720660371-6v98vqom12aj0182pbsbhnepuu4n6d17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
